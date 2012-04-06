@@ -1,0 +1,3 @@
+# Modman configuration for Load Testing extension
+app/code/community/EcomDev/LoadTest     app/code/community/EcomDev/LoadTest
+app/etc/modules/EcomDev_LoadTest.xml    app/etc/modules/EcomDev_LoadTest.xml
